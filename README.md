@@ -1,3 +1,7 @@
+# The Go
+Its A windows version of Go lang 1.20.5 with fixes for AIX PPC64 (AIX on power system) cross compile.
+
+
 # The Go Programming Language
 
 Go is an open source programming language that makes it easy to build simple,
